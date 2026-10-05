@@ -62,6 +62,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/numair-it/simple-calculator"><img src="https://raw.githubusercontent.com/numair-it/simple-calculator/main/assets/project_banner.jpg" alt="Simple Calculator Banner" width="100%" style="border-radius: 8px; margin-bottom: 10px;" /></a>
       <h3>🧮 <a href="https://github.com/numair-it/simple-calculator">Simple Calculator - Manual Testing</a></h3>
       <p>An interactive Python calculator developed through the full Manual Software Testing Lifecycle (STLC) for OUSL.</p>
       <ul>
