@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/numair-it/numair-it/main/assets/avatar.jpg" alt="Numair Avatar" width="160" height="160" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.4); margin-bottom: 12px;" />
+
 # 👋 Hi there, I'm **Numair**!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=BSc+in+Information+Technology+Undergraduate;Student+at+The+Open+University+of+Sri+Lanka;Passionate+Software+Developer+%26+QA+Tester;Constantly+Learning+%26+Building+Projects!)](https://git.io/typing-svg)
